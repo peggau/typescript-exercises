@@ -1,2 +1,2 @@
 # typescript-exercises
-Exercícios de TS
+Exemplos de código no estudo de TS.
